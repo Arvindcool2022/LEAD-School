@@ -1,8 +1,8 @@
-# React + Vite
+# Zip Code Information App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[Live-Demo](https://lead-school-arvind.netlify.app/)
 
-Currently, two official plugins are available:
+**Description:** a React application that allows users to enter a postal code and fetch
+information about that location using the https://api.zippopotam.us API.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**built with React + Vite + Tailwind CSS**
