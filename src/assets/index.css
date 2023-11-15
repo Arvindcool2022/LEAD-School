@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-contain bg-center bg-no-repeat;
+  background-image: url(./watercolor_world_map_pastel_display.jpg);
+}
